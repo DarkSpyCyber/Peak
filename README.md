@@ -6,6 +6,9 @@ for Magnet Search and NetDisk Search.*
 
 note: search speed dependes on internet speed 
 
+v0.3.0 2024/12/14
+1. added netdisk search method 2
+
 v0.2.5 2024/11/20
 1. fixed netdisk search.
 2. fixed magnet search method 1. now was ok
