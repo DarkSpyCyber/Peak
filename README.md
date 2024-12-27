@@ -6,6 +6,11 @@ for Magnet Search and NetDisk Search.*
 
 note: search speed dependes on internet speed 
 
+v0.3.5 2024/12/27
+1. fixed magnet method 1
+2. added net speed rate after search
+3. added network error or timeout warning on screen
+
 v0.3.0 2024/12/14
 1. added netdisk search method 2
 
