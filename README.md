@@ -5,9 +5,9 @@ for Magnet Search and NetDisk Search.*
 
 note: search speed dependes on internet speed 
 
-<img src="1.jpg" width="240" height="500">Netdisk Search</img>
-<img src="2.jpg" width="240" height="500">Magnet Search</img>
-<img src="3.jpg" width="240" height="500">Result</img>
+<img src="1.jpg" width="240" height="500"></img>
+<img src="2.jpg" width="240" height="500"></img>
+<img src="3.jpg" width="240" height="500"></img>
 
 v0.3.5 2024/12/27
 1. fixed magnet method 1
