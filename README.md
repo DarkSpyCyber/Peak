@@ -13,6 +13,7 @@ v0.4.0 2025/01/13
 1. fixed magnet method 1
 2. added magnet method 3
 3. fixed duplicate not allowed and arguments out of range error
+4. progress bar added
 
 v0.3.5 2024/12/27
 1. fixed magnet method 1
