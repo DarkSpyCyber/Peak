@@ -9,6 +9,11 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.4.0 2025/01/13
+1. fixed magnet method 1
+2. added magnet method 3
+3. fixed duplicate not allowed and arguments out of range error
+
 v0.3.5 2024/12/27
 1. fixed magnet method 1
 2. added net speed rate after search
