@@ -9,6 +9,11 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.4.5 2024/01/31
+1. fixed popup tips error.
+2. fixed tips.
+3. added save html function of netdisk search. save into download folder.
+
 v0.4.0 2025/01/13
 1. fixed magnet method 1
 2. added magnet method 3
