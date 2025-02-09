@@ -9,6 +9,9 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.4.6 2024/02/09
+1. added new free GPT4o AI.
+
 v0.4.5 2024/01/31
 1. fixed popup tips error.
 2. fixed tips.
