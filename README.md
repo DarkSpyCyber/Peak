@@ -9,10 +9,13 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
-v0.4.6 2024/02/09
+v0.5.0 2025/03/01
+1. added new method of netdisk search
+
+v0.4.6 2025/02/09
 1. added new free GPT4o AI.
 
-v0.4.5 2024/01/31
+v0.4.5 2025/01/31
 1. fixed popup tips error.
 2. fixed tips.
 3. added save html function of netdisk search. save into download folder.
