@@ -9,6 +9,11 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.5.5 2025/03/21
+1. fixed magnet search method 2
+2. added result list click and cancel function
+3. fixed save list to file button incorrectly show
+
 v0.5.0 2025/03/01
 1. added new method of netdisk search
 
