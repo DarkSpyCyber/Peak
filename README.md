@@ -9,6 +9,10 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.6.1 2025/05/29
+1. fixed searching string problems.
+2. fixed magnet searching method 1.
+
 v0.6.0 2025/05/12
 1. fixed some problems.
 2. added history record (5 records). top-left to slide history window out.
