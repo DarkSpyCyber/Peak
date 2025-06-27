@@ -9,6 +9,9 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.6.3 2025/06/27
+1. fixed netdisk searching method 3.
+
 v0.6.2 2025/06/15
 1. fixed netdisk searching method 1.
 
