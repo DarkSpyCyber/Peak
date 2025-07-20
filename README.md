@@ -9,6 +9,12 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.7.0 2025/07/20
+1. fixed magnet search 3.
+2. fixed core code optimized.
+3. fixed AI page to new page.
+4. added douyin download function.
+
 v0.6.3 2025/06/27
 1. fixed netdisk searching method 3.
 
