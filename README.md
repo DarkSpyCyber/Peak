@@ -9,6 +9,11 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.7.1 2025/07/27
+1. fixed search netdisk function 2.
+2. in netdisk 2,  we can traits the code if needed.
+3. fixed other problems.
+
 v0.7.0 2025/07/20
 1. fixed magnet search 3.
 2. fixed core code optimized.
