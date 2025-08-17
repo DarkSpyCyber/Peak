@@ -9,6 +9,10 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.7.3 2025/08/03
+1. added top left small rectangle bar to attention drag menu from left.
+2. fixed magnet method 3.
+
 v0.7.2 2025/07/31
 1. fixed netdisk search method 3.
 2. fixed result list click once problems.
