@@ -9,6 +9,11 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.8.1 2025/09/21
+1. added douyin/bilibili download waiting ui and tips.
+2. optimized some thread code.
+3. fixed inputs event.
+
 v0.8.0 2025/09/10
 1. added bilibili download (single video).
 2. fixed free AI to baidu ai (temporary).
