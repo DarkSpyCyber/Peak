@@ -9,6 +9,9 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.8.3 2025/10/19
+1. added online streaming website.(not support full screen temporarily).
+
 v0.8.2 2025/10/06
 1. add more searching results (if not duplicate)
 2. optimized other code.
