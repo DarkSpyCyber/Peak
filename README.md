@@ -9,6 +9,10 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.8.4 2025/10/30
+1. fixed magnet search method 1.
+2. other function optimized.
+
 v0.8.3 2025/10/19
 1. added online streaming website.(not support full screen temporarily).
 
