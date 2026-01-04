@@ -9,6 +9,10 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.9.1 2026/01/04
+1. fixed netdisk search method 2
+2. fixed some place of memory leak.
+
 v0.9.0 2025/12/4
 1. added kuaishou video download.
 
