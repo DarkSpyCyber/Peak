@@ -9,6 +9,12 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.9.2 2026/02/05
+1. fixed list item font issue.
+2. fixed list item with empty string.
+3. optimized kuaishou download.
+4. fixed version issue.
+
 v0.9.1 2026/01/04
 1. fixed netdisk search method 2
 2. fixed some place of memory leak.
