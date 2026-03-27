@@ -9,6 +9,11 @@ note: search speed dependes on internet speed
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
 
+v0.9.3 2026/03/27
+1. now can remember which method the last used.
+2. fixed form text font show and result show text problems.
+3. fixed other searching problems.
+
 v0.9.2 2026/02/05
 1. fixed list item font issue.
 2. fixed list item with empty string.
