@@ -8,6 +8,17 @@ note: search speed dependes on internet speed
 <img src="1.jpg" width="240" height="500"></img>
 <img src="2.jpg" width="240" height="500"></img>
 <img src="3.jpg" width="240" height="500"></img>
+Peak aarch64 Alpha. History 
+2026/05/10
+1. bt/magnet download
+2. normal http/https download
+3. fetch Peak bt/magnet link after search to download.
+
+Peak:
+v0.10.0 2026/05/10
+1. fixed netdisk search method 2
+2. download magnet/bt by Peak aarch64 bit version directly after search.
+3. fixed other issues.
 
 v0.9.3 2026/03/27
 1. now can remember which method the last used.
