@@ -11,6 +11,10 @@ note: search speed dependes on internet speed
 
 
 Peak aarch64 Alpha. History 
+2026/06/15
+1. fixed douyin download as no watermarker
+2. fixed other things.
+
 2026/05/10
 1. bt/magnet download
 2. normal http/https download
