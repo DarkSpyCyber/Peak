@@ -21,6 +21,12 @@ Peak aarch64 Alpha. History
 3. fetch Peak bt/magnet link after search to download.
 
 Peak:
+vv0.11.0 ~ 0.11.1 2026/06.16 ~ 07/10
+1. fixed netdisk search method 2
+2. fixed netdisk search method 1
+3. douyin download without watermarker mark.
+4. fixed other issues.
+	
 v0.10.0 2026/05/10
 1. fixed netdisk search method 2
 2. download magnet/bt by Peak aarch64 bit version directly after search.
