@@ -21,7 +21,12 @@ Peak aarch64 Alpha. History
 3. fetch Peak bt/magnet link after search to download.
 
 Peak:
-vv0.11.0 ~ 0.11.1 2026/06.16 ~ 07/10
+v0.15.0 2026/09/04
+1. fixed magnet method 1 - 3
+2. fixed netdisk method 1
+3. now we can see list view scrolling to see full strings.
+
+v0.11.0 ~ 0.11.1 2026/06.16 ~ 07/10
 1. fixed netdisk search method 2
 2. fixed netdisk search method 1
 3. douyin download without watermarker mark.
