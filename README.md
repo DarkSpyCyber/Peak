@@ -21,7 +21,10 @@ Peak aarch64 Alpha. History
 3. fetch Peak bt/magnet link after search to download.
 
 Peak:
-v0.15.0 2026/10/15
+v0.15.2 2026/11/03	
+1. fixed 1 3 magnet search method
+
+v0.15.1 2026/10/15
 1. fixed 1 - 3 magnet search methods.
 2. fixed other issues.
 
